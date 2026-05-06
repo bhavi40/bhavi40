@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my little corner of the internet — where clean code meets creative chaos! I'm a recent CS grad who turned late-night debugging sessions into a full-time passion. I love building things that actually *work* (most of the time 😅), and I'm on a mission to make software smarter, faster, and more fun to use.
+Welcome to my little corner of the internet, where clean code meets creative chaos! I'm a recent CS grad who turned late-night debugging sessions into a full-time passion. I love building things that actually *work* (most of the time 😅), and I'm on a mission to make software smarter, faster, and more fun to use.
 
 ---
 
@@ -21,28 +21,18 @@ Welcome to my little corner of the internet — where clean code meets creative 
 
 **Frontend:** React | HTML | CSS | JavaScript  
 **Backend:** Node.js | Python | REST APIs  
-**AI/ML:** TensorFlow | PyTorch | Scikit-learn  
+**AI/ML:** TensorFlow | PyTorch | Scikit-learn | NLP | RAG | MCP | Agents
 **Cloud:** AWS ☁️ | Azure 🌀 | GCP 🌩️  
 **Databases:** SQL | MongoDB | PostgreSQL  
 
 ---
 
-## 🏆 Certifications & Awards
+## 🏆 Certifications
 
 > *Because sometimes you need a certificate to prove you Googled things professionally.*
 
-- 🥇 Add your certifications here (AWS Certified? Azure? Let the world know!)
-- 🏅 Add any awards or recognitions
-
----
-
-## 🌟 Cool Projects
-
-> *Things I built at 2am fueled by curiosity (and coffee)*
-
-- 🔧 **[Project Name]** — Short description of what it does and why it's awesome. [View →](#)
-- 🤖 **[Project Name]** — Short description of what it does and why it's awesome. [View →](#)
-- ☁️ **[Project Name]** — Short description of what it does and why it's awesome. [View →](#)
+- 🥇 IBM Data Scientist
+- 🏅 Stanford Machine Learning by Andrew NG
 
 ---
 
@@ -61,9 +51,9 @@ You'll probably find me:
 
 I'm always up for a good tech conversation, collaboration, or meme exchange 😄
 
-- 💼 [LinkedIn](#) — Let's network and build something great
-- 🐙 [GitHub](#) — Where my code lives (and sometimes cries)
-- 📧 **Email:** your@email.com — Slide into my inbox anytime!
+- 💼 [LinkedIn](#https://www.linkedin.com/in/bhavishya-vudatha-320a7b167/) — Let's network and build something great
+- 🐙 [GitHub](#https://github.com/bhavi40) — Where my code lives (and sometimes cries)
+- 📧 **Email:** vudathabhavishya@gmail.com — Slide into my inbox anytime!
 
 ---
 
