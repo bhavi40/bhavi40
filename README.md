@@ -21,7 +21,7 @@ Welcome to my little corner of the internet, where clean code meets creative cha
 
 **Frontend:** React | HTML | CSS | JavaScript  
 **Backend:** Node.js | Python | REST APIs  
-**AI/ML:** TensorFlow | PyTorch | Scikit-learn | NLP | RAG | MCP | Agents
+**AI/ML:** TensorFlow | PyTorch | NLP | RAG | MCP | Agents
 **Cloud:** AWS ☁️ | Azure 🌀 | GCP 🌩️  
 **Databases:** SQL | MongoDB | PostgreSQL  
 
